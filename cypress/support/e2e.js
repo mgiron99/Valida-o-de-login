@@ -1,2 +1,5 @@
-
+import './Api_commands'
 import './commands'
+import './Api_editarCommands'
+import './Api_deleteCommands'
+import './Api_carrinhoCommands'
